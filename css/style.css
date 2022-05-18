@@ -12,10 +12,22 @@
     height: auto;
     float: left;
 }
-.content{
+.inicial{
     background-color: #ccc;
     width: 100%;
     height: auto;
+    float: left;
+}
+.content{
+    background-color: #ccc;
+    width: 50%;
+    height: auto;
+    float: left;
+}
+.content2{
+    background-color: #ccc;
+    width: 50%;
+    height: 100%;
     float: left;
 }
 .footer{
